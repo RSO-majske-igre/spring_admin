@@ -14,7 +14,7 @@
 	<name>springboot_admin</name>
 	<description>springboot_admin</description>
 	<properties>
-		<java.version>19</java.version>
+		<java.version>17</java.version>
 		<spring-boot-admin.version>3.0.0-M4</spring-boot-admin.version>
 	</properties>
 	<dependencies>
